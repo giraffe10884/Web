@@ -4,5 +4,6 @@
 ##### 系級：科技系二年級
 # 課程筆記區
 # 作業連結區
-<a href="https://giraffe10884.github.io/my-web/">9/12作業</a>
+<a href="https://giraffe10884.github.io/my-web/">作業一</a>
+<a href="https://youtu.be/gKVNGAxyNSc/">作業二</a>
 # 專題連結區
